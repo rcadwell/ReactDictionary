@@ -1,2 +1,0 @@
-# ReactDictionary
-Created with CodeSandbox
